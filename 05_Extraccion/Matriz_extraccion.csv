@@ -1,0 +1,4 @@
+ID Estudio,Referencia IEEE,Año,RQ Asociada,Arquitectura PLN Modelo,Metricas desempeño,Mecanismo de Privacidad,Restricciones de Hardware EDGE,Fuente de Ubicacion
+1,"[1]",2023,"RQ1, RQ2","Hyper-graph attention FL","Competitivo frente a centralizado","Aprendizaje Federado","No detallado","IEEE JBHI, pp. 768-777"
+2,"[2]",2026,"RQ2, RQ3","Fed-Prism (Federated attention)","F1-Score competitivo","Privacidad en clasificación mental","No detallado","Proc. IEEE AIEI 2026"
+3,"[3]",2026,"RQ1","FedCounselLM (BART ligero)","Evaluación de consejería","Fine-tuning federado","Modelo ligero on-device","Proc. ICSCCC 2026, pp. 1278-1283"
