@@ -1,0 +1,4 @@
+etapa,registros_entrada,registros_excluidos,registros_salida,observaciones
+Identificacion_Scopus,125,0,125,Busqueda avanzada ejecutada en Scopus (2022-2026)
+Filtros_automaticos,125,39,86,Exclusion por filtros de periodo (2022-2026), tipología (Article/Conference Paper), areas tematicas e idioma (English)
+Inclusion_corpus,86,0,86,Corpus final de 86 estudios primarios analizados en la RSL
