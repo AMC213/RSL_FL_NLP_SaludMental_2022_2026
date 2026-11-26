@@ -1,4 +1,3 @@
-
 # Ecuación de búsqueda y filtros en Scopus
 
 - **Base de datos:** Scopus
