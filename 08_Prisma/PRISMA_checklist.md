@@ -1,4 +1,3 @@
-
 # Lista de Verificación PRISMA (Síntesis del Reporte)
 
 - **Título:** Identifica el estudio como una Revisión Sistemática de la Literatura sobre Aprendizaje Federado, PLN y salud mental.
