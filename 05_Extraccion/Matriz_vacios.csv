@@ -1,4 +1,4 @@
-id_vacio,vacio_identificado,pregunta_futura_derivada,diseno_sugerido
+id vacio,Vacio Identificado,Pregunta Futura Derivada,Diseño Sugerido
 V1,"Escasa validación clínica longitudinal en entornos reales de uso continuo","¿Cómo se comporta la detección temprana de recaídas con modelos federados en usuarios reales durante periodos prolongados?","Estudio longitudinal observacional o ensayo piloto controlado con seguimiento clínico"
 V2,"Limitada evaluación conjunta de batería, latencia y carga de red en dispositivos diversos","¿Qué trade-offs reales de energía, memoria y ancho de banda ocurren en smartphones de gama baja y media?","Evaluación experimental de sistemas en dispositivos físicos bajo distintos perfiles de red"
 V3,"Insuficiente análisis de robustez frente a ataques específicos y cambios de distribución (Non-IID)","¿Qué estrategias de privacidad y personalización mantienen la estabilidad diagnóstica ante datos altamente heterogéneos y amenazas adversarias?","Experimentación comparativa con simulaciones de ataques y cohortes heterogéneas"
