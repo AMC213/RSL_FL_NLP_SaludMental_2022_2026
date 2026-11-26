@@ -1,4 +1,3 @@
-
 # Proceso de Selección y Depuración de Estudios
 
 - **Registros iniciales en Scopus:** 125
