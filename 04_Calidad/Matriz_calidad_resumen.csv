@@ -1,4 +1,4 @@
-Nª,ID Estudio,Referencia IEEE,Pertinencia Tematica FL NLP SM,Claridad Metodologica o Arquitectura,Reporte Metricas o Privacidad de Hardware,Observacion de Calidad
+ID Estudio,Referencia IEEE,Pertinencia Tematica FL NLP SM,Claridad Metodologica o Arquitectura,Reporte Metricas o Privacidad de Hardware,Observacion de Calidad
 1,"[1]",Alta,Adecuada,Parcial,Aborda aprendizaje federado en salud; verificar detalle específico de PLN y borde en el texto completo
 2,"[2]",Alta,Adecuada,Parcial,Vinculado a salud mental digital; revisar alcance de descentralización y métricas reportadas
 3,"[3]",Alta,Adecuada,Parcial,Relacionado con PLN y detección en salud mental; contrastar enfoque federado frente a nube
