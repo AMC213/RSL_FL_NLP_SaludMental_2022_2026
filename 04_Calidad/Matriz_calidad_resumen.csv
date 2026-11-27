@@ -25,7 +25,7 @@ ID Estudio,Referencia IEEE,Pertinencia Tematica FL NLP SM,Claridad Metodologica 
 24,"[24]",Alta,Adecuada,Adecuada,Aplica modelos de lenguaje y aprendizaje federado a señales textuales de salud mental
 25,"[25]",Alta,Adecuada,Parcial,Evalúa restricciones de cómputo y eficiencia en nodos de borde / dispositivos
 26,"[26]",Alta,Adecuada,Adecuada,Revisión sistemática sobre arquitecturas federadas en salud mental y privacidad
-27,"[27]",Alta,Adecuada,Adecuada,Revisión sistemática sobre LLMs ligeros, compresión y aprendizaje federado en salud mental
+27,"[27]",Alta,Adecuada,Adecuada,Revisión sistemática sobre LLMs ligeros; compresión y aprendizaje federado en salud mental
 28,"[28]",Alta,Adecuada,Parcial,Vincula modelos de PLN y esquemas descentralizados para detección temprana
 29,"[29]",Media,Adecuada,Parcial,Identifica brechas entre investigación académica y despliegue práctico en salud
 30,"[30]",Alta,Adecuada,Parcial,Integra señales digitales pasivas y modelado predictivo en salud mental
@@ -42,8 +42,8 @@ ID Estudio,Referencia IEEE,Pertinencia Tematica FL NLP SM,Claridad Metodologica 
 41,"[41]",Alta,Adecuada,Parcial,Analiza técnicas de aprendizaje automático sobre huellas textuales en salud mental
 42,"[42]",Alta,Adecuada,Parcial,Examina modelos de aprendizaje profundo para detección temprana de riesgo emocional
 43,"[43]",Alta,Adecuada,Adecuada,Propone o analiza arquitecturas de PLN adaptadas a entornos con recursos limitados
-44,"[44]",Alta,Adecuada,Adecuada,Evalúa restricciones de cómputo, memoria o comunicación en nodos de borde/móviles
-45,"[45]",Alta,Adecuada,Adecuada,Analiza impacto de latencia, ancho de banda o consumo energético en esquemas federados
+44,"[44]",Alta,Adecuada,Adecuada,Evalúa restricciones de cómputo; memoria o comunicación en nodos de borde/móviles
+45,"[45]",Alta,Adecuada,Adecuada,Analiza impacto de latencia; ancho de banda o consumo energético en esquemas federados
 46,"[46]",Alta,Adecuada,Adecuada,Reporta métricas de rendimiento diagnóstico en escenarios federados frente a líneas base
 47,"[47]",Alta,Adecuada,Adecuada,Compara desempeño predictivo (como F1-Score o Accuracy) bajo esquemas descentralizados
 48,"[48]",Alta,Adecuada,Adecuada,Integra mecanismos de preservación de privacidad sobre información sensible o clínica
@@ -58,7 +58,7 @@ ID Estudio,Referencia IEEE,Pertinencia Tematica FL NLP SM,Claridad Metodologica 
 57,"[57]",Alta,Adecuada,Parcial,Analiza señales lingüísticas y patrones de riesgo en entornos digitales o clínicos
 58,"[58]",Alta,Adecuada,Adecuada,Aborda eficiencia en dispositivos móviles o de borde y limitaciones de cómputo/memoria
 59,"[59]",Alta,Adecuada,Adecuada,Integra mecanismos de privacidad o cifrado en el flujo de aprendizaje federado
-60,"[60]",Media,Adecuada,Parcial,Discute retos de despliegue, interoperabilidad o adopción en salud digital
+60,"[60]",Media,Adecuada,Parcial,Discute retos de despliegue; interoperabilidad o adopción en salud digital
 61,"[61]",Alta,Adecuada,Adecuada,Examina protección de datos sensibles mediante técnicas federadas o privacidad diferencial
 62,"[62]",Alta,Adecuada,Adecuada,Analiza viabilidad en borde (Edge) y sobrecostos de comunicación/latencia en dispositivos
 63,"[63]",Alta,Adecuada,Adecuada,Evalúa ejecución descentralizada y restricciones de hardware en dispositivos móviles
@@ -71,17 +71,17 @@ ID Estudio,Referencia IEEE,Pertinencia Tematica FL NLP SM,Claridad Metodologica 
 70,"[70]",Media,Adecuada,Parcial,Respalda relevancia epidemiológica y clínica de la detección oportuna en salud mental
 71,"[71]",Alta,Adecuada,Parcial,Analiza modelos de aprendizaje automático sobre indicadores lingüísticos de riesgo
 72,"[72]",Alta,Adecuada,Adecuada,Revisión sobre detección de depresión mediante técnicas de ML y DL en textos sociales
-73,"[73]",Media,Adecuada,Parcial,Examina aspectos de validación, sesgo o calidad de datos en aplicaciones de salud
+73,"[73]",Media,Adecuada,Parcial,Examina aspectos de validación; sesgo o calidad de datos en aplicaciones de salud
 74,"[74]",Alta,Adecuada,Adecuada,Integra esquemas de preservación de privacidad en procesamiento de datos sensibles
 75,"[75]",Media,Adecuada,Parcial,Analiza retos de escalabilidad y coordinación en entrenamientos distribuidos
 76,"[76]",Alta,Adecuada,Parcial,Evalúa procesamiento de lenguaje natural para inferir estados afectivos o síntomas
 77,"[77]",Alta,Adecuada,Parcial,Aborda cómputo en el borde o descentralización para reducir exposición de datos
-78,"[78]",Alta,Adecuada,Parcial,Analiza marcos normativos, privacidad y seguridad en sistemas digitales de salud
+78,"[78]",Alta,Adecuada,Parcial,Analiza marcos normativos; privacidad y seguridad en sistemas digitales de salud
 79,"[79]",Media,Adecuada,Parcial,Revisa técnicas de aprendizaje profundo aplicadas a análisis textual en salud mental
 80,"[80]",Media,Adecuada,Parcial,Discute limitaciones prácticas y de generalización en modelos predictivos clínicos
 81,"[81]",Alta,Adecuada,Parcial,Examina detección de señales tempranas de riesgo emocional a partir de lenguaje
-82,"[82]",Alta,Adecuada,Adecuada,Vincula privacidad, gobernanza o viabilidad técnica en arquitecturas de salud digital
+82,"[82]",Alta,Adecuada,Adecuada,Vincula privacidad; gobernanza o viabilidad técnica en arquitecturas de salud digital
 83,"[83]",Media,Adecuada,Parcial,Aporta elementos sobre optimización o entrenamiento eficiente en entornos distribuidos
-84,"[84]",Alta,Adecuada,Parcial,Identifica brechas o desafíos abiertos en la integración de PLN, privacidad y salud mental
+84,"[84]",Alta,Adecuada,Parcial,Identifica brechas o desafíos abiertos en la integración de PLN; privacidad y salud mental
 85,"[85]",Media,Adecuada,Parcial,Analiza aspectos metodológicos o de evaluación en modelos de lenguaje aplicados a salud
 86,"[86]",Alta,Adecuada,Parcial,Completa el corpus de 86 estudios primarios incluido para análisis y síntesis
