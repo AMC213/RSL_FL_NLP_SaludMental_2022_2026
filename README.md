@@ -43,7 +43,7 @@ Identificados: 125 | Excluidos por filtros automáticos: 39 | Corpus final inclu
 3. Contrastar las tablas y figuras con los archivos de `05_extraccion/` y `07_figuras/`.
 
 ## Herramientas y versiones
-[Especificar herramientas utilizadas, por ejemplo: Microsoft Excel, gestor bibliográfico, Python, etc.]
+[Microsoft Excel, gestor bibliográfico]
 
 ## Uso de inteligencia artificial
 Ver `09_ia/declaracion_uso_IA.md`.
